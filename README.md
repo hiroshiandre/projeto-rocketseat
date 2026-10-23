@@ -8,18 +8,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
-</p>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-green">
-</p>
-
-<p align="center">
-  <img alt="Preview do DevLinks" src="screenshots/preview.png" width="700">
-</p>
-
+ 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
